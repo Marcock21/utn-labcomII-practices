@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.921), rgba(0, 0, 0, 0.293)), url("bsabbath-fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+
+}
